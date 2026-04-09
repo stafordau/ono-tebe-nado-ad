@@ -227,7 +227,7 @@
   font-size: 20px;
 }
 
-.about{
+.about {
   display: grid;
   grid-template-columns: 240px auto;
   gap: 72px;
